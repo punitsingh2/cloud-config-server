@@ -1,2 +1,3 @@
-jwt.secretKey = mysecret
-jwt.validityInMilliseconds = 3600000
+jwt:
+    secretKey: mysecret
+    validityInMilliseconds: 3600000
